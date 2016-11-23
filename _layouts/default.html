@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+ 
+
+<link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/imgs/logo.png"/>
+    <title>{{ site.name }}: {% if page.title %}{{ page.title }}{% endif %}</title>
+
+    {% include meta.html %}
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.6/yeti/bootstrap.min.css">
+
+  <!-- jQuery library -->
+   <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+
+  <!-- Latest compiled JavaScript -->
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+  
+
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  </head>
+
+  <body>
+  {% include nav.html %}
+
+    <div id="main" role="main" class="container">
+      {{ content }}
+    </div>
+    {% include analytics.html %}
+  </body>
+</html>
