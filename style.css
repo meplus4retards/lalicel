@@ -1,0 +1,38 @@
+.navbar-brand {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    text-align: center;
+    margin: auto;
+}
+.navbar-toggle {
+    z-index:3;
+}
+.brandlogo{
+  position: absolute;
+  left: 50%;
+  top: -70px;
+  margin-left: -100px
+}
+.navbar-left{
+  text-align: center;
+}
+.navbar-nav{
+  font-size: 20px;
+}
+html, body {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+body{
+  background-color: #ececec;
+}
+.post img{
+
+	text-align: center;
+	 position: relative;
+	 width: 100%;
+	 
+}
