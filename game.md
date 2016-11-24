@@ -6,14 +6,16 @@ permalink: /Game/
 <h2>Osu!</h2>
 
 <ul>
-	<li> Standard: 36k</li>
+	<li> Standard: 35k</li>
 	<li> Catch the beat: 7k</li>
-	<li> Play around 4.6 - 6 stars</li>
+	<li> HR, HR, DT only</li>
+	<li> Play around 5 - 6 stars</li>
 	<li> Drag + tablet player </li>
 	<li> Started streaming osu! with rank #322k. 1/7/2016</li>
-	<li> l_Alice_l
+	<li> l_Alice_l</li>
 </ul>
 <br>
+
 <h2>League Of Legends</h2>
 
 <ul>
