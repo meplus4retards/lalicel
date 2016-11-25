@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /News/
+permalink: /blog/
 title: News
 ---
 
