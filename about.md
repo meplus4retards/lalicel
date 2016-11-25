@@ -17,7 +17,7 @@ Do you have a boyfriend? Yep. Wubwoofwolf
 Where do you live? Massachusets
 </p></li>
 <li><p>
-Are you really 17? Yes, My birthday is on Oct 13
+How old are you? 18
 </p></li>
 <li><p>
 Why don't you play other games? I like to stick with one main game. But also because i have motion sickness that makes me get dizzy on most games not 2d like
